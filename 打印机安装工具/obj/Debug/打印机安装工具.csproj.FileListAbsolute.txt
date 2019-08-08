@@ -1,0 +1,17 @@
+D:\项目\打印机安装工具\打印机安装工具\bin\Debug\打印机安装工具.exe
+D:\项目\打印机安装工具\打印机安装工具\bin\Debug\打印机安装工具.pdb
+D:\项目\打印机安装工具\打印机安装工具\obj\Debug\MainWindow.g.cs
+D:\项目\打印机安装工具\打印机安装工具\obj\Debug\App.g.cs
+D:\项目\打印机安装工具\打印机安装工具\obj\Debug\打印机安装工具_MarkupCompile.cache
+D:\项目\打印机安装工具\打印机安装工具\obj\Debug\打印机安装工具_MarkupCompile.lref
+D:\项目\打印机安装工具\打印机安装工具\obj\Debug\MainWindow.baml
+D:\项目\打印机安装工具\打印机安装工具\obj\Debug\打印机安装工具.g.resources
+D:\项目\打印机安装工具\打印机安装工具\obj\Debug\打印机安装工具.Properties.Resources.resources
+D:\项目\打印机安装工具\打印机安装工具\obj\Debug\打印机安装工具.csproj.GenerateResource.Cache
+D:\项目\打印机安装工具\打印机安装工具\obj\Debug\打印机安装工具.exe
+D:\项目\打印机安装工具\打印机安装工具\obj\Debug\打印机安装工具.pdb
+F:\临时文件\汪吴境\TEST\打印机安装工具.exe
+F:\临时文件\汪吴境\TEST\打印机安装工具.pdb
+D:\项目\打印机安装工具\打印机安装工具\obj\Debug\打印机安装工具.csprojResolveAssemblyReference.cache
+D:\项目\打印机安装工具\打印机安装工具\obj\Debug\Window1.g.cs
+D:\项目\打印机安装工具\打印机安装工具\obj\Debug\Window1.baml

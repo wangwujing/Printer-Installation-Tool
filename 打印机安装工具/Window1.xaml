@@ -1,0 +1,15 @@
+﻿<Window x:Class="打印机安装工具.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:打印机安装工具"
+        mc:Ignorable="d"
+        Title="打印机安装程序" Height="180" Width="280" WindowStyle="ToolWindow" ResizeMode="NoResize" Topmost="True" WindowStartupLocation="CenterScreen" >
+    <StackPanel>
+        <Label HorizontalContentAlignment="Center" Foreground="Red" FontSize="18">请选择您要安装打印机的位置</Label>
+        <Button Width="150" Height="30" Click="Button_Click">人事部、总裁办、法务部</Button>
+        <Button Width="100" Height="30" Margin="0,10,0,0" Click="Button_Click_1">财务一部</Button>
+        <Button Width="100" Height="30" Margin="0,10,0,0" Click="Button_Click_2">财务二部</Button>
+    </StackPanel>
+</Window>
